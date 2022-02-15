@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1d6df855-635d-9990-5904-360b1431926a
 ---
@@ -33,7 +35,7 @@ Assignments
 
 In addition to reading and participation, students are asked to complete the following assignments:
 
-Weekly reflections: After completing the assigned readings each week1, please write down your thoughts in the form of brief (1–2 pages) reflections; these can take a variety of forms: short musings prompted by the material, an essay on a single aspect that struck you as noteworthy, or even a comparison or contrast of some key aspects; questions for discussion are encouraged as well. Weekly reflections are due no later than Monday evening for the coming week, and may be submitted online so other students can view and comment.
+Weekly reflections: After completing the assigned readings each week{{< sup "1" >}}, please write down your thoughts in the form of brief (1–2 pages) reflections; these can take a variety of forms: short musings prompted by the material, an essay on a single aspect that struck you as noteworthy, or even a comparison or contrast of some key aspects; questions for discussion are encouraged as well. Weekly reflections are due no later than Monday evening for the coming week, and may be submitted online so other students can view and comment.
 
 Final psychogeographic project: By the end of the semester, each student will prepare and present a psychogeographic work based on their own exploration of some real or imagined place. Elements may include poetry or prose; photography, film, sound, smell, and tactilometry; bits, atoms, data, signal, and noise; history, biography, cartography, imagination; blood, sweat, spleen, and other humorous elements; spirit, soul, pathos, hopes, dreams, memories, traces, hints, will-o-wisps, fears, nightmares, and whatever else you discover or invent along the way. (More details will be provided as the course progresses and we figure out what this subject is even about….)
 
@@ -145,4 +147,4 @@ Acknowledgments
 I would like to thank Gil Kneale, whose influence on the development of my own psychogeographic understandings has been incalculable.
 
   
-1 Note: Weekly reflections are due for 11 of the 12 weeks with readings; you are allowed to miss one week without excuse or penalty.
+{{< sup "1" >}} Note: Weekly reflections are due for 11 of the 12 weeks with readings; you are allowed to miss one week without excuse or penalty.

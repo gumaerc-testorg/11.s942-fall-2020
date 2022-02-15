@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Schedule of Readings
 uid: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
 ---
@@ -58,7 +60,7 @@ Readings
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-3. 18th\- and 19th\-Century London and Paris: Literary Ur-Psychogeography
+3. 18{{< sup "th" >}}\- and 19{{< sup "th" >}}\-Century London and Paris: Literary Ur-Psychogeography
 {{< tdclose >}}
 {{< tdopen >}}
 
