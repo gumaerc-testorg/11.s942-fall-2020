@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 617c4ffd-6367-fcb8-8669-19dc806b57a4
 resourcetype: Other
 title: On the Sounds of Cities
 uid: 595e7bd1-d412-61c3-fb63-78715656f450

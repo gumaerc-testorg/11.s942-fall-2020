@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 617c4ffd-6367-fcb8-8669-19dc806b57a4
 resourcetype: Document
 title: Week 1 Reflection
 uid: a1c5e17f-94c1-e326-9440-fe8d072deff5
