@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides full bibliographic details for the assigned and suggested
+  readings (and films) for 11.S942 Wanderings in Psychogeography.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Readings
