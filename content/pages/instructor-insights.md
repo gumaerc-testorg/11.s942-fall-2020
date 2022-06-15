@@ -1,19 +1,19 @@
 ---
 content_type: page
+description: This page provides information on how 11.S942 Wanderings in Psychogeography
+  was taught, including written reflections by the Instructor.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 1d80cea4-e5ec-2a00-6bc2-74e1e386d5ad
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Ezra Haber Glenn describes various aspects of how he teaches _11.S942 Wanderings in Psychogeography_.
 
-![Sculptural fountain spraying water on a city street.]({{< resource_file d700b883-f367-bdf4-0572-194b090f445b >}})
+{{< resource d700b883-f367-bdf4-0572-194b090f445b >}}
 
 Students in 11.S942 might encounter this scene while on a psychogeographic wandering around the Kendall Square neighborhood in Cambridge, Massachusetts. (Image courtesy of [bogdantapu](https://flickr.com/photos/bogdantapu/42473485940/in/photolist-27HeHBJ-6eroj-bqmQqs-eN2V7E-owQn4-5AbtS4-bqmQrj-DTNTL6-6kTuH7-7TDtp4-5AfLpm-DEFbFE-4dtsLe-4vZeKA-DmwgVb-D2YKtd-e8vpf1-MYxPtT-6f66He-eFn3Z-7WnCN3-6kTumQ-DkiBvz-DmzTRo-2emCiGf-DGQtDg-NkCw5y-6kTmNd-owQ6N-54aFJy-rdAHq8-5AfLpE-6kPdVK-2emCih7-5AfLpY-rYoMkG-4YzVyY-DrFopL-CRinwp-DPdzZJ-6kPbWP-Mpk3aw-6kTkCy-6kPj2H-AQSr6g-6kPmB8-6kPkQB-6g3dkV-6kTr57-6kPjS6) on Flickr. License CC BY-NC.)
 
@@ -61,8 +61,7 @@ My only advice: don't worry about the finished product yet, have fun experimenti
 
 {{< /div-with-class >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -73,8 +72,7 @@ The students' grades were based on the following activities:
 - 20% Final project
 - 1% Random surrealist coin toss
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -88,10 +86,11 @@ None
 
 Occasionally
 
-Student Information
--------------------
+## Student Information
 
-![Six students took this course when it was taught in Fall 2020.]({{< resource_file 22373daa-efa6-b629-d529-d5c1ae200954 >}})
+### Enrollment
+
+6 students
 
 ### Breakdown by Year
 
@@ -105,17 +104,14 @@ A mix of students in urban planning, architecture, and visual/media studies prog
 
 Students selected the class based simply on their interest in the topic.
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 2 times per week for 1.5 hour per session; 26 sessions total; mandatory attendance
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students completed assigned readings, wrote and posted weekly reflections, went on optional psychogeographic walks, and worked on their final projects.
