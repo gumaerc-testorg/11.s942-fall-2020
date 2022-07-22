@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: A list of required and suggested readings for 11.S942 Wanderings in Psychogeography.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Schedule of Readings
 uid: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
 ---
 
-For full details of the texts listed below, see the [Bibliography]({{< baseurl >}}/pages/schedule-of-readings/bibliography) page.  
+For full details of the texts listed below, see the {{% resource_link 999f0f19-3742-f24d-888f-d64d61fa08c5 "Bibliography" %}} page.  
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -58,7 +61,7 @@ Readings
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-3. 18th\- and 19th\-Century London and Paris: Literary Ur-Psychogeography
+3. 18{{< sup "th" >}}\- and 19{{< sup "th" >}}\-Century London and Paris: Literary Ur-Psychogeography
 {{< tdclose >}}
 {{< tdopen >}}
 
