@@ -6,6 +6,7 @@ file: /courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-his
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: On the Sounds of Cities
 uid: 595e7bd1-d412-61c3-fb63-78715656f450
 ---
 A PowerPoint presentation by Blanche Shao, a student in 11.s942 Wanderings in Psychogeography.
-

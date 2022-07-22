@@ -6,6 +6,7 @@ file: /courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-his
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 6 Reflection
 uid: d3e8bd4c-5c7a-0ea8-f81c-a7554ca107fe
 ---
 This file contains a sample of student work from 11.S942 Wanderings in Psychogeography.
-
