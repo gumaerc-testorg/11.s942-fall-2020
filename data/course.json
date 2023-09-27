@@ -43,8 +43,10 @@
   },
   "learning_resource_types": [
     "Written Assignments with Examples",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "23414a42-78d5-4fe0-b8a4-c0f885bb139b",
+  "site_uid": "164d8409-5d00-4ce3-b268-98a6c920c952",
+  "site_short_id": "11.s942-fall-2020",
   "title": "Course Metadata"
 }
