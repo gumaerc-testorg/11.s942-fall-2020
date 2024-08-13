@@ -11,9 +11,9 @@ uid: 1d80cea4-e5ec-2a00-6bc2-74e1e386d5ad
 ---
 ## Instructor Insights
 
-Below, Ezra Haber Glenn describes various aspects of how he teaches _11.S942 Wanderings in Psychogeography_.
+Below, Ezra Haber Glenn describes various aspects of how he teaches *11.S942 Wanderings in Psychogeography*.
 
-{{< resource d700b883-f367-bdf4-0572-194b090f445b >}}
+{{< resource uuid="d700b883-f367-bdf4-0572-194b090f445b" >}}
 
 Students in 11.S942 might encounter this scene while on a psychogeographic wandering around the Kendall Square neighborhood in Cambridge, Massachusetts. (Image courtesy of [bogdantapu](https://flickr.com/photos/bogdantapu/42473485940/in/photolist-27HeHBJ-6eroj-bqmQqs-eN2V7E-owQn4-5AbtS4-bqmQrj-DTNTL6-6kTuH7-7TDtp4-5AfLpm-DEFbFE-4dtsLe-4vZeKA-DmwgVb-D2YKtd-e8vpf1-MYxPtT-6f66He-eFn3Z-7WnCN3-6kTumQ-DkiBvz-DmzTRo-2emCiGf-DGQtDg-NkCw5y-6kTmNd-owQ6N-54aFJy-rdAHq8-5AfLpE-6kPdVK-2emCih7-5AfLpY-rYoMkG-4YzVyY-DrFopL-CRinwp-DPdzZJ-6kPbWP-Mpk3aw-6kTkCy-6kPj2H-AQSr6g-6kPmB8-6kPkQB-6g3dkV-6kTr57-6kPjS6) on Flickr. License CC BY-NC.)
 
@@ -21,7 +21,7 @@ Students in 11.S942 might encounter this scene while on a psychogeographic wande
 
 **Ezra Haber Glenn:** In his seminal 1955 article “Introduction to a Critique of Urban Geography,” Lettrist/Situationist founder Guy Debord defined psychogeography as the study of “the precise laws and specific effects of the geographical environment, consciously organized or not, on the emotions and behavior of individuals.” At its most basic level, the field uses the tools of literature, myth, maps, art, wandering, wondering, humor, eyes, ears, noses, intentional and unintentional trespassing, random accident, and other forms of conventional and extrasensory perception to explore the ways that humans do (or could) experience places, and the ways those experiences in turn could (or do) shape those humans.
 
-I've only taught this class twice, but I've been teaching the material (to myself, mostly) for as long as I can remember. I developed and offered the course in its current, very open-ended form out of an interest in exploring the material with others and learning from their perspectives and interests as well. The word “seminar” stems from the Latin _seminarium_, a nursery where seeds are planted; as such, the class provides an opportunity to plant some seeds and see what sprouts. I continue to be interested in the subject because I’m still figuring out what it includes and how it helps me understand the world, our place in it, and the limitless potential of human experience.
+I've only taught this class twice, but I've been teaching the material (to myself, mostly) for as long as I can remember. I developed and offered the course in its current, very open-ended form out of an interest in exploring the material with others and learning from their perspectives and interests as well. The word “seminar” stems from the Latin *seminarium*, a nursery where seeds are planted; as such, the class provides an opportunity to plant some seeds and see what sprouts. I continue to be interested in the subject because I’m still figuring out what it includes and how it helps me understand the world, our place in it, and the limitless potential of human experience.
 
 **OCW:** What strategies have you found work well for engaging students and getting everyone involved in a seminar?
 
@@ -37,11 +37,11 @@ Beyond that, classroom engagement is mostly about channeling energy and humor an
 
 **Ezra Haber Glenn:** Yes. It could be heads (+1% towards your grade), or it could be tails (+0% towards your grade). When the class was in-person, we actually flipped the coins and let the student pick heads or tails, during a fun end-of-semester party event. Really, it's there to demonstrate an overall irreverence towards rules, to call out the absurdity of conventional rules and systems of conformity. After all, what’s more absurd: flipping a coin to determine a grade, or our attachment to grades at all, when we should be focused on learning, sharing, and exploration?
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 **OCW**: What was it like to teach about the effects of geographical environments in a virtual space?
 
@@ -57,7 +57,7 @@ My only advice: don't worry about the finished product yet, have fun experimenti
 
 **OCW**: Please explain the optional walks “to explore various sites and neighborhoods to put into practice psychogeographic principles.” Where did you go, and what were some of the principles you put into practice? How did this work virtually?
 
-**Ezra Haber Glenn:** In 2017, we would go out and about near campus, looking for clues to various mysteries we could solve around the city: What used to be here? Why is this place like this? How do different people experience this place differently? What is that smell? How many ghosts do you see? The idea was to practice what psychogeographers refer to as the “[_dérive_](http://www.bopsecrets.org/SI/2.derive.htm).” (As noted above, in the virtual world, this didn’t work very well.)
+**Ezra Haber Glenn:** In 2017, we would go out and about near campus, looking for clues to various mysteries we could solve around the city: What used to be here? Why is this place like this? How do different people experience this place differently? What is that smell? How many ghosts do you see? The idea was to practice what psychogeographers refer to as the “[*dérive*](http://www.bopsecrets.org/SI/2.derive.htm).” (As noted above, in the virtual world, this didn’t work very well.)
 
 {{< /div-with-class >}}
 
@@ -80,7 +80,7 @@ None
 
 ### Requirements Satisfied
 
-11.S942 can be applied toward a [Master’s degree in City Planning](https://dusp.mit.edu/degrees/masters), but is not required.
+11.S942 can be applied toward a [Master’s degree in City Planning](https://dusp.mit.edu/masters), but is not required.
 
 ### Offered
 
