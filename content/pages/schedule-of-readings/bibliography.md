@@ -21,9 +21,9 @@ Benjamin, Walter. *One-Way Street*. Belknap/Harvard, 2016. Edited by Michael W. 
 
 ———. *The Arcades Project*. Belknap/Harvard, 1999. Translated by Howard Eiland and Kevin McLaughlin; prepared on the basis of the German volume edited by Rolf Tiedemann. ISBN: 9780674052291
 
-Blake, William. {{% resource_link "d97a50a6-4848-4620-98c7-ec12f7f24c0d" "“*London*,”" %}} 1794. 
+Blake, William. [“*London*,”](https://www.poetryfoundation.org/poems/43673/london-56d222777e969) 1794. 
 
-Cadogan, Garnette. {{% resource_link "bbc81994-ed34-47fb-b272-810e3f2a7989" "“Walking while Black: Garnette Cadogan on the Realities of Being Black in America,”" %}} Literary Hub, July 8, 2016.
+Cadogan, Garnette. [“Walking while Black: Garnette Cadogan on the Realities of Being Black in America,”](https://lithub.com/walking-while-black/) Literary Hub, July 8, 2016.
 
 Calvino, Italo. *Invisible Cities*. Harcourt Brace Jovanovich, 1978. ISBN: 9780156453806
 
@@ -33,7 +33,7 @@ Chtcheglov, Ivan. “Formulary for a New Urbanism.” In Ken Knabb, editor, *Sit
 
 Clay, Grady. *Close-Up: How to Read the American City*. Praeger Publishers, 1973. ISBN: 9780275501204  
 
-Coleridge, Samuel Taylor. {{% resource_link "5ca358dd-ebcb-4365-b0f8-4b1f2d5b2edf" "“Kubla Khan; or, a Vision in a Dream: A Fragment,”" %}} 1816.
+Coleridge, Samuel Taylor. [“Kubla Khan; or, a Vision in a Dream: A Fragment,”](https://www.poetryfoundation.org/poems/43991/kubla-khan) 1816.
 
 Constant \[Constant Anton Niewenhuys\]. “Another City for Another Life.” In Ken Knabb, editor, *Situationist International Anthology*, pages 71–73. Bureau of Public Secrets, 2006. Originally published in 1960. ISBN: 9780939682041
 
@@ -53,7 +53,7 @@ Delany, Samuel R. *Times Square Red, Times Square Blue*. NYU, 1999. ISBN: 97808
 
 Du Bois, W.E.B. *The Philadelphia Negro: A Social Study*. University of Pennsylvania, 1995. Originally published in 1899. ISBN: 9780812215731
 
-Eiland, Howard. {{% resource_link "6e951457-5372-4be5-bbf5-23597abffddd" "“Reality as Palimpsest: On Benjamin's Arcades Project”" %}} \[recorded lecture\], April 15, 2010.
+Eiland, Howard. [“Reality as Palimpsest: On Benjamin's Arcades Project”](https://soundcloud.com/cirucberkeley/reality-as-palimpsest-on-benjamins-arcades-project-howard-eiland-4152010) \[recorded lecture\], April 15, 2010.
 
 Elkin, Laura. *Flâneuse: Women Walk the City in Paris, New York, Tokyo, Venice, and London*. Farrar, Straus, and Giroux, 2016. ISBN: 9780374156046
 
@@ -67,9 +67,9 @@ Ginsberg, Allen. *Howl and Other Poems*. City Lights, 1955. ISBN: 9780872863101
 
 Hessel, Franz. *Walking in Berlin: A Flâneur in the Capital*. MIT Press, 2017. Originally published in 1929; translated by Amanda DeMarco. ISBN: 9780262036351
 
-Jacobs, Allan B. {{% resource_link "d98aff7d-2a77-4115-81fb-66f2f54e4587" "“Looking at Cities.”" %}} *Places* 1(4), 1984.
+Jacobs, Allan B. [“Looking at Cities.”](https://escholarship.org/uc/item/12x6z4vr) *Places* 1(4), 1984.
 
-Keiller, Patrick. {{% resource_link "54a9c958-8117-4431-8894-126bf95a4743" "*London*" %}} \[film\], 1994.
+Keiller, Patrick. [*London*](https://www.imdb.com/title/tt0110377/) \[film\], 1994.
 
 Lettrist International. “Proposals for Rationally Improving the City of Paris.” In Ken Knabb, editor, *Situationist International Anthology*, pages 12–14. Bureau of Public Secrets, 2006. Originally published in 1955. ISBN: 9780939682041
 
@@ -87,19 +87,19 @@ Perec, Georges. *An Attempt at Exhausting a Place in Paris*. Wakefield Press, 20
 
 Piranesi, Giovanni Battista. *The Prisons / Le Carceri*. Dover, 2010. ISBN: 9780486215402
 
-Poe, Edgar Allan. {{% resource_link "38e69e28-a408-46e0-a2e9-cad0a96d3208" "“The Man of the Crowd”" %}} in *The Works of Edgar Allan Poe: the Raven Edition*, volume 5. Project Gutenberg, 2008. Originally published in 1840.
+Poe, Edgar Allan. [“The Man of the Crowd”](https://www.gutenberg.org/files/2151/2151-h/2151-h.htm) in *The Works of Edgar Allan Poe: the Raven Edition*, volume 5. Project Gutenberg, 2008. Originally published in 1840.
 
-Ruttmann, Walter. {{% resource_link "b4d669e5-1c05-4692-8bbc-55162fe9ebfa" "*Berlin: Symphony of a Metropolis / Symphony of a Great City (Symphonie der Großstadt)*" %}} \[film\], 1927.
+Ruttmann, Walter. [*Berlin: Symphony of a Metropolis / Symphony of a Great City (Symphonie der Großstadt)*](https://www.imdb.com/title/tt0017668/) \[film\], 1927.
 
-———. {{% resource_link "17dd39f1-2325-4583-8c40-7dc6e47d76c9" "*Weekend (Wochenende)*" %}} \[film\], 1930.
+———. [*Weekend (Wochenende)*](https://www.imdb.com/title/tt3251726/) \[film\], 1930.
 
-Sayles, John. {{% resource_link "f01c7762-2eb7-48d9-b6f5-d501f2da239d" "*The* *Brother from Another Planet*" %}} \[film\], 1984.
+Sayles, John. [*The* *Brother from Another Planet*](https://www.imdb.com/title/tt0087004/) \[film\], 1984.
 
 Sebald, W.G. *The* *Rings of Saturn*. New Directions, 1995. ISBN: 9780811226158
 
 Self, Will. *Psychogeography*. Bloomsbury Press, 2007. Pictures by Ralph Steadman. ISBN: 9781408880326
 
-Shelley, Percy Bysshe. {{% resource_link "b552f68a-9054-46c0-8c7d-0c1164720f10" "“Ozymandias,”" %}} 1818.
+Shelley, Percy Bysshe. [“Ozymandias,”](https://www.poetryfoundation.org/poems/46565/ozymandias) 1818.
 
 Sinclair, Iain. *Lights Out for the Territory: 9 Excursions in the Secret History of London*. Granta Books, 1997. ISBN: 9781862070097
 
@@ -113,25 +113,25 @@ Stevenson, Robert Louis. *The Strange Case of Dr. Jekyll and Mr. Hyde*. Dover, 1
 
 Tufte, Edward. *Visual Explanations: Images and Quantities, Evidence and Narrative*. Graphics Press, 1997. ISBN: 9781930824157
 
-Varda, Agnes. {{% resource_link "d5a3e2d9-2d78-4112-80b0-4bd06462bbc6" "*Cléo de 5 à 7 (Cléo from 5 to 7)*" %}} \[film\], 1962.
+Varda, Agnes. [*Cléo de 5 à 7 (Cléo from 5 to 7)*](https://www.imdb.com/title/tt0055852/) \[film\], 1962.
 
 Wallace, David Foster. *Infinite Jest*. Back Bay Books, 1996. ISBN: 9780316921176
 
 Wark, McKenzie. *The Beach Beneath the Street: The Everyday Life and Glorious Times of the Situationist International*. Verso, 2011. ISBN: 9781844677207
 
-———. {{% resource_link "1edd5de5-f64f-4744-bf82-badcaffc64b8" "“*Zuccotti Park, a Psychogeography”*" %}} (Verso Books blog), October 6, 2011.
+———. [“*Zuccotti Park, a Psychogeography”*](https://www.versobooks.com/blogs/735-mckenzie-wark-zuccotti-park-a-psychogeography) (Verso Books blog), October 6, 2011.
 
 Weegee \[Arthur Fellig\]. *Naked City*. Essential Books, 1945. ISBN: 9780306812040
 
-Wenders, Wim. {{% resource_link "b20e3a28-9b7d-46ef-b216-4c8343cbeccf" "*Wings of Desire (Der Himmel über Berlin)*" %}} \[film\], 1987.
+Wenders, Wim. [*Wings of Desire (Der Himmel über Berlin)*](https://www.imdb.com/title/tt0093191/) \[film\], 1987.
 
-Westerkamp, Hildegard. {{% resource_link "e9d8ec7f-9507-4f84-b0da-971e3b26893d" "“Soundwalking,”" %}} 2001. Originally published in *Sound Heritage*, Volume III Number 4, 1974; Revised 2001.
+Westerkamp, Hildegard. [“Soundwalking,”](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking) 2001. Originally published in *Sound Heritage*, Volume III Number 4, 1974; Revised 2001.
 
 Whyte, William H. *City: Rediscovering the Center*. Doubleday, 1988. ISBN: 9780385054584
 
 Williams, William Carlos. *Paterson*. New Directions, 1995. Originally published in 1958. ISBN: 9780811212984
 
-Wood, Denis. {{% resource_link "efad95d6-0644-451a-9a6a-964f71c40dc8" "“Lynch Debord: About Two Psychogeographies.”" %}} *Cartographica: The International Journal for Geographic Information and Geovisualization*, 45(3):185–199, September 2010.
+Wood, Denis. [“Lynch Debord: About Two Psychogeographies.”](https://krygier.owu.edu/krygier_html/geog_222/geog_222_lo/Lynch_Debord_Carto.45.3.003.pdf) *Cartographica: The International Journal for Geographic Information and Geovisualization*, 45(3):185–199, September 2010.
 
 Woolf, Virginia. *Street Haunting: A London Adventure*. Westgate Press, 1930. ISBN: 9781447479222
 
